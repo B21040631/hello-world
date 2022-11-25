@@ -14,3 +14,4 @@ char* StrCpy(char* src)
 	s[i + 1] = '\0';
 	return s;
 }
+Remote edit B21040631 潘翰林
